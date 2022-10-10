@@ -1,0 +1,45 @@
+.container {
+  max-width: 1020px;
+}
+
+.header {
+  margin-top: 1rem;
+}
+
+.page {
+  background: white;
+  padding: 2rem;
+}
+
+.dropdown-item:active {
+  background: rgb(73, 123, 189) !important;
+}
+
+.btn-primary {
+  background: rgb(83, 52, 170) !important;
+  border-color: rgb(83, 52, 170) !important;
+}
+
+.accordion-righttext {
+  text-align: right!important;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+a + a {
+  margin-left: 1rem;
+}
+
+.right {
+  margin-left: auto;
+}
+
+.post + .post {
+  margin-top: 2rem;
+}
+
+.service + .service {
+  margin-top: 0.5rem;
+}
